@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
-    <url>%2F2018%2F04%2F03%2F%E4%B8%89%E6%98%9FS6-G9209%20ROOT%E6%95%99%E7%A8%8B%2F</url>
-    <content type="text"><![CDATA[三星S6-G9209 ROOT教程一、CROM SERVER UNLOCK 同时按住&lt;音量下键&gt;+&lt;Home键&gt;+&lt;电源键&gt;进入刷机模式 按&lt;音量上键&gt;继续 查看“CROM SERVICE”状态（Lock为未解锁状态）（Unlock为已解锁状态） 下载解锁工作（链接: https://pan.baidu.com/s/1o8OIGoa 密码: pmxm）（已解锁略过此操作） 安装s6-lock-service&gt;&gt;s6-CROM.apk至手机中（安装完成后程序名为：CROM服务） 运行“CROM服务”程序，进行解锁。（解锁成功提示：设备已解锁。您可以安装自定义操作系统） 二、进行ROOT操作 下载root工具及刷机文件（链接: https://pan.baidu.com/s/1o8OIGoa 密码: pmxm） 安装“驱动–双击运行.exe”文件 同时按住&lt;音量下键&gt;+&lt;Home键&gt;+&lt;电源键&gt;进入刷机模式 按&lt;音量上键&gt;继续，进入root文件下载状态 运行刷机工具“shuaji》刷机工具》 Odin3 v3.11.1.exe” 点击“AP”加载刷机文件“shuaji》Root文件》g9200-Root-6.0.tar” 等待刷机结束（出现PASS时，表示刷机成功，关闭软件） 手机自动重启多次之后，root成功 三、ROOT验证 有多种方式可以验证手机是否root成功 方法一：adb shell $ su #（手机会弹出授权请求，允许授权请求后，adb shell进入井号模式） 方法二：一般的root工具都具有查看当前机器是否已经root 比如：这里使用adb]]></content>
+    <title><![CDATA[三星S6 ROOT教程]]></title>
+    <url>%2F2018%2F04%2F03%2F%E4%B8%89%E6%98%9FS6-ROOT%E6%95%99%E7%A8%8B%2F</url>
+    <content type="text"><![CDATA[一、CROM SERVER UNLOCK 同时按住&lt;音量下键&gt;+&lt;Home键&gt;+&lt;电源键&gt;进入刷机模式 按&lt;音量上键&gt;继续 查看“CROM SERVICE”状态（Lock为未解锁状态）（Unlock为已解锁状态） 下载解锁工作（链接: https://pan.baidu.com/s/1o8OIGoa 密码: pmxm）（已解锁略过此操作） 安装s6-lock-service&gt;&gt;s6-CROM.apk至手机中（安装完成后程序名为：CROM服务） 运行“CROM服务”程序，进行解锁。（解锁成功提示：设备已解锁。您可以安装自定义操作系统） 二、进行ROOT操作 下载root工具及刷机文件（链接: https://pan.baidu.com/s/1o8OIGoa 密码: pmxm） 安装“驱动–双击运行.exe”文件 同时按住&lt;音量下键&gt;+&lt;Home键&gt;+&lt;电源键&gt;进入刷机模式 按&lt;音量上键&gt;继续，进入root文件下载状态 运行刷机工具“shuaji》刷机工具》 Odin3 v3.11.1.exe” 点击“AP”加载刷机文件“shuaji》Root文件》g9200-Root-6.0.tar” 等待刷机结束（出现PASS时，表示刷机成功，关闭软件） 手机自动重启多次之后，root成功 三、ROOT验证 有多种方式可以验证手机是否root成功 方法一：adb shell $ su #（手机会弹出授权请求，允许授权请求后，adb shell进入井号模式） 方法二：一般的root工具都具有查看当前机器是否已经root 比如：这里使用adb]]></content>
   </entry>
   <entry>
     <title><![CDATA[聊一聊Node.js远程执行漏洞]]></title>
